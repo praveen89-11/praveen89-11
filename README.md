@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Praveen Anumala 👋
 
-<!--
-**praveen89-11/praveen89-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring Data Analyst* — Python • SQL • Power BI • Data Cleaning • Data Visualization
 
-Here are some ideas to get you started:
+🔭 Current project: *Food Delivery Data Analysis* (Python + SQL + Power BI)
+✅ Cleaned data using Pandas (handled null values & duplicates)
+✅ Performed SQL analysis (joins, window functions, insights)
+✅ Built interactive dashboard in Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: Advanced SQL (CTE, Window Functions), Git & GitHub, Data Visualization
+🌐 Portfolio/LinkedIn: (Add your link here)
+📫 Contact: (Add your email here)
+
+---
+
+## 🛠️ Tech Stack
+
+Python, Pandas, SQL, Power BI, Excel, Git, GitHub
+
+---
+
+## 📊 Projects (Pinned Below)
+
+### 1. Food Delivery Data Analysis
+
+* Data cleaning using Python (Pandas)
+* SQL analysis (joins, ranking, city-wise insights)
+* Dashboard creation in Power BI
+* Insights: city performance, discounts impact, order trends
+
+---
+
+
