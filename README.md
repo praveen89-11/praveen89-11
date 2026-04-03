@@ -8,7 +8,7 @@
 ✅ Built interactive dashboard in Power BI
 
 🌱 Learning: Advanced SQL (CTE, Window Functions), Git & GitHub, Data Visualization
-🌐 Portfolio/LinkedIn: (Add your link here)
+🌐 Portfolio/LinkedIn: www.linkedin.com/in/praveenanumala
 📫 Contact: praveenanumala919@gmail.com
 
 ---
