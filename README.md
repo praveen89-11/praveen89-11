@@ -9,7 +9,7 @@
 
 🌱 Learning: Advanced SQL (CTE, Window Functions), Git & GitHub, Data Visualization
 🌐 Portfolio/LinkedIn: (Add your link here)
-📫 Contact: (Add your email here)
+📫 Contact: praveenanumala919@gmail.com
 
 ---
 
